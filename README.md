@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/autopi2.png" alt="AutoShrinkPi Logo" width="260">
+  <img src="assets/rpi.png" alt="AutoShrinkPi Logo" width="260">
 </p>
 
 <h1 align="center">AutoShrinkPi</h1>
