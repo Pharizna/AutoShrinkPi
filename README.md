@@ -11,12 +11,12 @@
 
 **AutoShrinkPi** es un sistema modular y automatizado para realizar:
 
-- Backups completos de la SD y de la USB principal  
+- Backups completos de la SD y de la USB 'principal' de una RPi
 - Backups de una USB adicional sin detener Docker  
 - Recorte (shrink) de imágenes `.img`  
 - Preparación de imágenes con expansión automática al primer arranque  
 - Compresión optimizada con `pigz`  
-- Almacenamiento centralizado en un NAS  
+- Almacenamiento centralizado de las copias en un NAS  
 
 El objetivo es disponer de copias de seguridad fiables, comprimidas, optimizadas y listas para restaurar con Balena Etcher.
 
