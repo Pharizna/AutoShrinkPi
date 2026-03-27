@@ -1,11 +1,6 @@
 # AutoShrinkPi  
 ### Backup. Shrink. Expand. Done.
 
-┌──────────────────────────────────────────────┐
-│                AutoShrinkPi                  │
-│      Backup. Shrink. Expand. Done.           │
-└──────────────────────────────────────────────┘
-
 ---
 
 # 🇪🇸 Descripción (Español)
